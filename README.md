@@ -1,2 +1,1 @@
-# PrepCourse-Henry-Prueba
-este es un repositorio de prueba del modulo 2
+Prueva de como crear un repositorio y clonarlo desde giyhub a mi computadora
